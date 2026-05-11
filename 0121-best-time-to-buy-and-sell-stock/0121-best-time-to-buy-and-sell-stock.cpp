@@ -13,12 +13,6 @@ public:
             if(profit<=temp){
                 profit = temp;
             }
-           // for(int j=i; j < n;j++){
-            //    int temp = prices[j] - min;
-            //    if(profit <= temp){
-            //       profit = temp;
-            //   }
-            //}
         }
     return profit;
     }
