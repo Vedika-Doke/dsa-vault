@@ -8,7 +8,7 @@ public:
             cabinet[temp].push_back(s);
         }
         vector<vector<string>> res;
-        for(auto [label,stringy] : cabinet){
+        for(auto const& [label,stringy] : cabinet){
             res.push_back(stringy);
         }
         return res;
