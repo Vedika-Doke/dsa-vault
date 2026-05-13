@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Vedika-Doke/dsa-vault/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vedika-Doke/dsa-vault/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Vedika-Doke/dsa-vault/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Vedika-Doke/dsa-vault/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Vedika-Doke/dsa-vault/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Vedika-Doke/dsa-vault/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Vedika-Doke/dsa-vault/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -25,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Vedika-Doke/dsa-vault/tree/master/0049-group-anagrams) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Vedika-Doke/dsa-vault/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
